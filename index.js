@@ -4,8 +4,5 @@ let role = "Devloper";
 
 function companyRole(){
     console.log("Name"+name1  + "Role"+role);
-}
-
-function add(a,b){
-    return a+b
+    
 }
